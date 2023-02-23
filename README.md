@@ -10,23 +10,6 @@ A small website to present the Infra-SI project that we carried out on virtual m
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## Deployment
-
-Before you start, be sure to move the "hangman" folder into your "go programming/src" folder. 😉
-
-To deploy this project, let's move to the "Pages" folder :
-
-```bash
-  cd Pages
-```
-
-let's start GO files :
-
-```bash
-  go run main.go
-```
-
-Enter in your address bar "localhost:80/"
 ## 🚀 About Me
 I am a French full stack developer passionate about cybersecurity and studying in this field. Very curious about new technologies, I like to learn new things.
 
